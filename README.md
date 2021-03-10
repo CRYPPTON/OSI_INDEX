@@ -1,4 +1,4 @@
-# Program for calculating the oscillatory index
+# Program for calculating the oscillatory index --DEMO
 
 
 Mean shear stress τ<sub>mean</sub> in time interval T
